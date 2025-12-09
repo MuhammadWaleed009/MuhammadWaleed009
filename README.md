@@ -62,8 +62,8 @@ Rails 7 + Hotwire platform with upgraded architecture and AWS-based CI/CD.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadWaleed009&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadWaleed009&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-six-xi.vercel.app/api?username=MuhammadWaleed009&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-six-xi.vercel.app/api/top-langs/?username=MuhammadWaleed009&layout=compact&theme=transparent" />
 </p>
 
 ---
